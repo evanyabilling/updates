@@ -1,0 +1,34 @@
+{
+  "app": "evanya-billing",
+  "version": "67.19.0",
+  "date": "02-10-2026",
+  "important": false,
+  "notes": "Sales orders, shade stock, loading slip, TDS on purchases, Tally export, and much more from the phone.",
+  "list": [
+    "Sales orders — book an order, send it over one or more bills, and see what is still to go",
+    "Shade / batch stock — which shades are in stock and how many boxes of each, on the computer and the phone",
+    "Loading slip for the truck — boxes, shade, square feet and weight, no prices",
+    "TDS on purchases (Section 393(1), old 194Q) worked out on every purchase bill, with a month-wise list and deposits",
+    "Rate list for each party — print, PDF or WhatsApp; that party's rate fills in by itself on their bills",
+    "Export to Tally — ledgers and entries for your CA",
+    "Phone: make the bill from a quotation, challan or order; goods back (credit note); pay a supplier; count stock with the camera",
+    "Phone front page: today's sales and collection, money older than 30 days, last 7 days, and money owed by 0–30 / 31–60 / 61–90 / 90+ days",
+    "Phone: WhatsApp payment reminder, rate list, change or cancel a bill, purchase bills and expenses",
+    "Phone app 1.2.0: app lock with PIN or fingerprint, and the last copy of your books when the computer is off",
+    "The computer stays awake while phones are connected",
+    "TCS on sale of goods is no longer added to bills dated from 1 April 2025",
+    "E-Way Bill screens removed — old bills keep the number they were printed with",
+    "Party statements leave out cancelled bills, so the closing figure matches the balance"
+  ],
+  "url": "https://evanyabilling.github.io/updates/",
+  "page": "https://evanyabilling.github.io/updates/",
+  "downloads": {
+    "win": "https://github.com/evanyabilling/updates/releases/download/v67.19.0/Evanya-Billing-Setup-67.19.0.exe",
+    "mac_intel": "https://github.com/evanyabilling/updates/releases/download/v67.19.0/Evanya_Billing_67.19.0_MAC_Intel.zip",
+    "mac_arm": "https://github.com/evanyabilling/updates/releases/download/v67.19.0/Evanya_Billing_67.19.0_MAC_AppleSilicon.zip"
+  },
+  "phone": {
+    "version": "1.2.0",
+    "url": "https://github.com/evanyabilling/updates/releases/download/v67.19.0/EvanyaBilling-Phone-1.2.0.apk"
+  }
+}
